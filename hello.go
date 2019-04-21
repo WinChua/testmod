@@ -7,7 +7,6 @@ func Hi(name string) string {
 }
 
 func Hello(name string) string {
-    return fmt.Sprintf("Hello, %s", name)
+    return fmt.Sprintf("Hello,%s", name)
 }
 
-make it error
